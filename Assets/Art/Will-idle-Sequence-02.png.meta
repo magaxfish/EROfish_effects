@@ -1,0 +1,479 @@
+fileFormatVersion: 2
+guid: 12a1eb217c6e7964d810a0b8d88de61c
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Will-idle-Sequence-02_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2212.5
+        width: 409.6
+        height: 737.5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7167f8b248ab3244a87eef542605c556
+      internalID: 640594615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Will-idle-Sequence-02_1
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 2212.5
+        width: 409.6
+        height: 737.5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6a944ea83a9f864f93974ced1fe1f02
+      internalID: -327276057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Will-idle-Sequence-02_2
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 2212.5
+        width: 409.6
+        height: 737.5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a830ddf98a489f5408f20f285c71cf7b
+      internalID: 140954751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Will-idle-Sequence-02_3
+      rect:
+        serializedVersion: 2
+        x: 1227
+        y: 2212.5
+        width: 409.6
+        height: 737.5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0888e6e6e7a94884da20778cdf1a86c7
+      internalID: -1150421326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Will-idle-Sequence-02_4
+      rect:
+        serializedVersion: 2
+        x: 1636
+        y: 2212.5
+        width: 409.6
+        height: 737.5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61f0d4e2e0f22aa43b838f391982198c
+      internalID: 967981846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Will-idle-Sequence-02_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1475.5
+        width: 409.6
+        height: 737.5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adee461b9fbef0a45ae95a1205e844fd
+      internalID: 1978526738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Will-idle-Sequence-02_6
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 1475.5
+        width: 409.6
+        height: 737.5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a13cdae5bd2dbc488de31e493702ee9
+      internalID: -471350945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Will-idle-Sequence-02_7
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 1475.5
+        width: 409.6
+        height: 737.5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afbe7153acc8ee44e9769fe788e58db1
+      internalID: 1538634822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Will-idle-Sequence-02_8
+      rect:
+        serializedVersion: 2
+        x: 1227
+        y: 1475.5
+        width: 409.6
+        height: 737.5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be1775e430d2bb44aa0b4c288c7cfd08
+      internalID: 408780054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Will-idle-Sequence-02_9
+      rect:
+        serializedVersion: 2
+        x: 1636
+        y: 1475.5
+        width: 409.6
+        height: 737.5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34e94357a13ad8b4c8bcf76b7ef5c9b4
+      internalID: -380754762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Will-idle-Sequence-02_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 738.5
+        width: 409.6
+        height: 737.5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 590f07b65ffd09244bf1dc4e849d9394
+      internalID: -1368385816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Will-idle-Sequence-02_11
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 738.5
+        width: 409.6
+        height: 737.5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6996294e2cc52074683d8212800c886e
+      internalID: 241436970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Will-idle-Sequence-02_12
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 738.5
+        width: 409.6
+        height: 737.5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b450b391c92d05043bf82f7cb70e4eb6
+      internalID: -313518641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Will-idle-Sequence-02_13
+      rect:
+        serializedVersion: 2
+        x: 1227
+        y: 738.5
+        width: 409.6
+        height: 737.5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57192dd0c69dd6d458a982dde9a7c4a0
+      internalID: -527181870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Will-idle-Sequence-02_14
+      rect:
+        serializedVersion: 2
+        x: 1636
+        y: 738.5
+        width: 409.6
+        height: 737.5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47d7aae93f4c357488cce658bf39d82a
+      internalID: 692224700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Will-idle-Sequence-02_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1.5
+        width: 409.6
+        height: 737.5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 843ea5c48dc06dd47859bca7437512a2
+      internalID: -1188806529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Will-idle-Sequence-02_0: 640594615
+      Will-idle-Sequence-02_1: -327276057
+      Will-idle-Sequence-02_10: -1368385816
+      Will-idle-Sequence-02_11: 241436970
+      Will-idle-Sequence-02_12: -313518641
+      Will-idle-Sequence-02_13: -527181870
+      Will-idle-Sequence-02_14: 692224700
+      Will-idle-Sequence-02_15: -1188806529
+      Will-idle-Sequence-02_2: 140954751
+      Will-idle-Sequence-02_3: -1150421326
+      Will-idle-Sequence-02_4: 967981846
+      Will-idle-Sequence-02_5: 1978526738
+      Will-idle-Sequence-02_6: -471350945
+      Will-idle-Sequence-02_7: 1538634822
+      Will-idle-Sequence-02_8: 408780054
+      Will-idle-Sequence-02_9: -380754762
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
