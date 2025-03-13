@@ -6210,6 +6210,18 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 2364015422697927691, guid: 92a462d4e905ca942b1bff7c149225d6, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 2c4060bcd3aa8024a9fc0d2ef7c1fa25, type: 2}
+    - target: {fileID: 3118242570642290746, guid: 92a462d4e905ca942b1bff7c149225d6, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 3.13
+      objectReference: {fileID: 0}
+    - target: {fileID: 3118242570642290746, guid: 92a462d4e905ca942b1bff7c149225d6, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.93
+      objectReference: {fileID: 0}
     - target: {fileID: 4740135444452022539, guid: 92a462d4e905ca942b1bff7c149225d6, type: 3}
       propertyPath: m_LocalPosition.x
       value: -0.32678214
@@ -6253,6 +6265,22 @@ PrefabInstance:
     - target: {fileID: 6406199231333620798, guid: 92a462d4e905ca942b1bff7c149225d6, type: 3}
       propertyPath: m_Name
       value: ShadowTrailEffect
+      objectReference: {fileID: 0}
+    - target: {fileID: 9058669540352379690, guid: 92a462d4e905ca942b1bff7c149225d6, type: 3}
+      propertyPath: UVModule.mode
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9058669540352379690, guid: 92a462d4e905ca942b1bff7c149225d6, type: 3}
+      propertyPath: UVModule.sprites.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 9058669540352379690, guid: 92a462d4e905ca942b1bff7c149225d6, type: 3}
+      propertyPath: EmissionModule.rateOverTime.scalar
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 9058669540352379690, guid: 92a462d4e905ca942b1bff7c149225d6, type: 3}
+      propertyPath: UVModule.sprites.Array.data[0].sprite
+      value: 
       objectReference: {fileID: 0}
     - target: {fileID: 9058669540352379690, guid: 92a462d4e905ca942b1bff7c149225d6, type: 3}
       propertyPath: SubModule.subEmitters.Array.data[0].emitter
