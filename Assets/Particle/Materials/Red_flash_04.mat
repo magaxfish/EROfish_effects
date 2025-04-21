@@ -7,13 +7,13 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: lb_20f 2
+  m_Name: Red_flash_04
   m_Shader: {fileID: 4800000, guid: bd6af5d577c618947b73aa60db554e51, type: 3}
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
   m_ValidKeywords: []
   m_InvalidKeywords: []
-  m_LightmapFlags: 5
+  m_LightmapFlags: 4
   m_EnableInstancingVariants: 0
   m_DoubleSidedGI: 0
   m_CustomRenderQueue: -1
@@ -23,52 +23,32 @@ Material:
   m_SavedProperties:
     serializedVersion: 3
     m_TexEnvs:
-    - _BumpMap:
-        m_Texture: {fileID: 0}
-        m_Scale: {x: 1, y: 1}
-        m_Offset: {x: 0, y: 0}
-    - _DetailAlbedoMap:
-        m_Texture: {fileID: 0}
-        m_Scale: {x: 1, y: 1}
-        m_Offset: {x: 0, y: 0}
-    - _DetailMask:
-        m_Texture: {fileID: 0}
-        m_Scale: {x: 1, y: 1}
-        m_Offset: {x: 0, y: 0}
-    - _DetailNormalMap:
-        m_Texture: {fileID: 0}
-        m_Scale: {x: 1, y: 1}
-        m_Offset: {x: 0, y: 0}
-    - _EmissionMap:
-        m_Texture: {fileID: 0}
-        m_Scale: {x: 1, y: 1}
-        m_Offset: {x: 0, y: 0}
     - _Flow:
         m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MainTex:
-        m_Texture: {fileID: 2800000, guid: 6e934b0d8d9ff464c8a6c85069a5fe37, type: 3}
+        m_Texture: {fileID: 2800000, guid: 1087b24d9bba6874481942408b6cee7a, type: 3}
         m_Scale: {x: 1, y: 1}
-        m_Offset: {x: 0, y: 0}
+        m_Offset: {x: 0, y: -0.25}
     - _Mask:
-        m_Texture: {fileID: 0}
-        m_Scale: {x: 1, y: 1}
-        m_Offset: {x: 0, y: 0}
-    - _MetallicGlossMap:
-        m_Texture: {fileID: 0}
+        m_Texture: {fileID: 2800000, guid: d9a770fddc0276740b642075488dc8ac, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _Noise:
         m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
-    - _OcclusionMap:
-        m_Texture: {fileID: 0}
+    - _TEX:
+        m_Texture: {fileID: 2800000, guid: dcbfbfbb0e2c00a4b9a4988ddff14c5a, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
-    - _ParallaxMap:
-        m_Texture: {fileID: 0}
+    - _mask:
+        m_Texture: {fileID: 2800000, guid: b4e1e739d65ec7f41bc99511a1f33bcf, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _tex:
+        m_Texture: {fileID: 2800000, guid: 50bfa11b617bd554b884c609861f60d2, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _texcoord:
@@ -78,32 +58,32 @@ Material:
     m_Ints: []
     m_Floats:
     - _Blend2: 1
-    - _BumpScale: 1
     - _CullMode: 0
-    - _Cutoff: 0.5
     - _Depthpower: 1
-    - _DetailNormalMapScale: 1
-    - _DstBlend: 0
-    - _Emission: 1
-    - _EmissionScaleUI: 0
-    - _Glossiness: 0.5
+    - _Emission: 2
     - _InvFade: 1
-    - _Metallic: 0
-    - _Mode: 0
-    - _OcclusionStrength: 1
-    - _Opacity: 1
-    - _Parallax: 0.02
-    - _SrcBlend: 1
-    - _UVSec: 0
+    - _Tex_power: 1.33
+    - _U: 0
+    - _UVrotator: 0
+    - _UVrotator_mask: 0
+    - _U_copy: 1
+    - _U_mask: 0
     - _Usecenterglow: 0
     - _Usecustomrandom: 0
     - _Usedepth: 0
-    - _ZWrite: 1
+    - _V: 1
+    - _V_copy: 1
+    - _duibi: 0.55
+    - _jiaodujiaodu: 0
+    - _jiaodujiaodu_mask: 0
+    - _liangdu: 10
+    - _mask_power: 3.36
+    - _v: 1.8
+    - _v_mask: 1
     m_Colors:
     - _Color: {r: 1, g: 1, b: 1, a: 1}
     - _DistortionSpeedXYPowerZ: {r: 0, g: 0, b: 0, a: 0}
-    - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
-    - _EmissionColorUI: {r: 1, g: 1, b: 1, a: 1}
-    - _SpeedMainTexUVNoiseZW: {r: 0, g: 0, b: 0, a: 0}
-    - _TintColor: {r: 0.5, g: 0.5, b: 0.5, a: 0.5}
+    - _SpeedMainTexUVNoiseZW: {r: 0, g: -1.2, b: 0, a: 0}
+    - _TintColor: {r: 0.8490566, g: 0.27634388, b: 0.28206816, a: 0.362}
+    - _glowcolor: {r: 0.7735849, g: 0.27942452, b: 0.1715023, a: 0.466}
   m_BuildTextureStacks: []
