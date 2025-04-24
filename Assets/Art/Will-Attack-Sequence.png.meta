@@ -1,0 +1,765 @@
+fileFormatVersion: 2
+guid: 1acdbfe642467dd449be31e07185383f
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 55
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Will-Attack-Sequence_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3584.875
+        width: 512
+        height: 512.125
+      alignment: 9
+      pivot: {x: 0.5, y: 0.13}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73e396b0324673c44ba4fab5451bb749
+      internalID: -86516328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Will-Attack-Sequence_1
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 3584.875
+        width: 512
+        height: 512.125
+      alignment: 9
+      pivot: {x: 0.5, y: 0.13}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81d4587afc0067244995c0edf4689f2c
+      internalID: 859337948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Will-Attack-Sequence_2
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 3584.875
+        width: 512
+        height: 512.125
+      alignment: 9
+      pivot: {x: 0.5, y: 0.13}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dba75e9489dd6d84cb4431f6794836b9
+      internalID: -1749627670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Will-Attack-Sequence_3
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 3584.875
+        width: 512
+        height: 512.125
+      alignment: 9
+      pivot: {x: 0.5, y: 0.13}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf1614add08b1f14981fcc7481cb678f
+      internalID: 323442367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Will-Attack-Sequence_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3072.875
+        width: 512
+        height: 512.125
+      alignment: 9
+      pivot: {x: 0.5, y: 0.13}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de68b9404156d2046958b1fc046bbc43
+      internalID: 1333542627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Will-Attack-Sequence_5
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 3072.875
+        width: 512
+        height: 512.125
+      alignment: 9
+      pivot: {x: 0.5, y: 0.13}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5eb6b64bcc65bf548828a34fcbad3d51
+      internalID: -326699983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Will-Attack-Sequence_6
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 3072.875
+        width: 512
+        height: 512.125
+      alignment: 9
+      pivot: {x: 0.5, y: 0.13}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0552262634b8e740949f3c61c6744f4
+      internalID: -1127267536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Will-Attack-Sequence_7
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 3072.875
+        width: 512
+        height: 512.125
+      alignment: 9
+      pivot: {x: 0.5, y: 0.13}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 659a189ecf69e4944b605a3db182d072
+      internalID: -717516499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Will-Attack-Sequence_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2560.875
+        width: 512
+        height: 512.125
+      alignment: 9
+      pivot: {x: 0.5, y: 0.13}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5a96c884d2f6794dad5f258118939a8
+      internalID: 1634084256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Will-Attack-Sequence_9
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 2560.875
+        width: 512
+        height: 512.125
+      alignment: 9
+      pivot: {x: 0.5, y: 0.13}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fee1369855ff394abee364faaf10d7f
+      internalID: 1536848429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Will-Attack-Sequence_10
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 2560.875
+        width: 512
+        height: 512.125
+      alignment: 9
+      pivot: {x: 0.5, y: 0.13}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55678073414982042a6caa79b309246f
+      internalID: 1935080060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Will-Attack-Sequence_11
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 2560.875
+        width: 512
+        height: 512.125
+      alignment: 9
+      pivot: {x: 0.5, y: 0.13}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27f1ec014653e834abf83293a732075f
+      internalID: 1285027846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Will-Attack-Sequence_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2048.875
+        width: 512
+        height: 512.125
+      alignment: 9
+      pivot: {x: 0.5, y: 0.13}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b2d9339803828a4eabd372fbefc56be
+      internalID: -1327879260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Will-Attack-Sequence_13
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 2048.875
+        width: 512
+        height: 512.125
+      alignment: 9
+      pivot: {x: 0.5, y: 0.13}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e70cd3dd867e1b3439e64e16c220fb84
+      internalID: 230970957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Will-Attack-Sequence_14
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 2048.875
+        width: 512
+        height: 512.125
+      alignment: 9
+      pivot: {x: 0.5, y: 0.13}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53e5d0312cce9ac4e84983d0ea1d258f
+      internalID: -1174674517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Will-Attack-Sequence_15
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 2048.875
+        width: 512
+        height: 512.125
+      alignment: 9
+      pivot: {x: 0.5, y: 0.13}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8170bd29a6cdc6040a0b3033bd36b76a
+      internalID: -1653483815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Will-Attack-Sequence_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1536.875
+        width: 512
+        height: 512.125
+      alignment: 9
+      pivot: {x: 0.5, y: 0.13}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f70377d707c2b70478b967118936a3f9
+      internalID: 1619776440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Will-Attack-Sequence_17
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1536.875
+        width: 512
+        height: 512.125
+      alignment: 9
+      pivot: {x: 0.5, y: 0.13}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc9c6d2851478dc4a9de6d56d61397b8
+      internalID: -393913549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Will-Attack-Sequence_18
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1536.875
+        width: 512
+        height: 512.125
+      alignment: 9
+      pivot: {x: 0.5, y: 0.13}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c3d3e64118be06499093e41ab07c2cc
+      internalID: 1834883557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Will-Attack-Sequence_19
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1536.875
+        width: 512
+        height: 512.125
+      alignment: 9
+      pivot: {x: 0.5, y: 0.13}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 073dc917a9549654daed39bfbc5386ec
+      internalID: -1108641784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Will-Attack-Sequence_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1024.875
+        width: 512
+        height: 512.125
+      alignment: 9
+      pivot: {x: 0.5, y: 0.13}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1153d5b577abe6b4fa0e72b1a536f9f1
+      internalID: 104006643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Will-Attack-Sequence_21
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1024.875
+        width: 512
+        height: 512.125
+      alignment: 9
+      pivot: {x: 0.5, y: 0.13}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df17f0be2f3938a48a0d2b8bb3b9688e
+      internalID: 1062602592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Will-Attack-Sequence_22
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1024.875
+        width: 512
+        height: 512.125
+      alignment: 9
+      pivot: {x: 0.5, y: 0.13}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c68411ad1b06e054483ca9a09f9e9d3e
+      internalID: -623486480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Will-Attack-Sequence_23
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1024.875
+        width: 512
+        height: 512.125
+      alignment: 9
+      pivot: {x: 0.5, y: 0.13}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 483fa2e7228036a438402d1199405670
+      internalID: -2002213024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Will-Attack-Sequence_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512.875
+        width: 512
+        height: 512.125
+      alignment: 9
+      pivot: {x: 0.5, y: 0.13}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38855b2ebf8978745bcedef7767934e0
+      internalID: -639258078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Will-Attack-Sequence_25
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 512.875
+        width: 512
+        height: 512.125
+      alignment: 9
+      pivot: {x: 0.5, y: 0.13}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a2ddd29059858f45a9d449c0d01e8d1
+      internalID: 738911108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Will-Attack-Sequence_26
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 512.875
+        width: 512
+        height: 512.125
+      alignment: 9
+      pivot: {x: 0.5, y: 0.13}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64ba9da353a200849bb2aadd93675865
+      internalID: 145058743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Will-Attack-Sequence_27
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 512.875
+        width: 512
+        height: 512.125
+      alignment: 9
+      pivot: {x: 0.5, y: 0.13}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dad8703680274d498ae434c1c214a87
+      internalID: 248293307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Will-Attack-Sequence_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0.875
+        width: 512
+        height: 512.125
+      alignment: 9
+      pivot: {x: 0.5, y: 0.13}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f5bfdc8cd51f37418d37379d1e1080e
+      internalID: -1615446076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Will-Attack-Sequence_0: -86516328
+      Will-Attack-Sequence_1: 859337948
+      Will-Attack-Sequence_10: 1935080060
+      Will-Attack-Sequence_11: 1285027846
+      Will-Attack-Sequence_12: -1327879260
+      Will-Attack-Sequence_13: 230970957
+      Will-Attack-Sequence_14: -1174674517
+      Will-Attack-Sequence_15: -1653483815
+      Will-Attack-Sequence_16: 1619776440
+      Will-Attack-Sequence_17: -393913549
+      Will-Attack-Sequence_18: 1834883557
+      Will-Attack-Sequence_19: -1108641784
+      Will-Attack-Sequence_2: -1749627670
+      Will-Attack-Sequence_20: 104006643
+      Will-Attack-Sequence_21: 1062602592
+      Will-Attack-Sequence_22: -623486480
+      Will-Attack-Sequence_23: -2002213024
+      Will-Attack-Sequence_24: -639258078
+      Will-Attack-Sequence_25: 738911108
+      Will-Attack-Sequence_26: 145058743
+      Will-Attack-Sequence_27: 248293307
+      Will-Attack-Sequence_28: -1615446076
+      Will-Attack-Sequence_3: 323442367
+      Will-Attack-Sequence_4: 1333542627
+      Will-Attack-Sequence_5: -326699983
+      Will-Attack-Sequence_6: -1127267536
+      Will-Attack-Sequence_7: -717516499
+      Will-Attack-Sequence_8: 1634084256
+      Will-Attack-Sequence_9: 1536848429
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
