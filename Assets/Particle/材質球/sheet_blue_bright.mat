@@ -54,7 +54,7 @@ Material:
     - _Usecustomrandom: 0
     - _Usedepth: 0
     m_Colors:
-    - _Color: {r: 0.5, g: 0.5, b: 0.5, a: 1}
+    - _Color: {r: 0.92156863, g: 1, b: 0.9968317, a: 1}
     - _DistortionSpeedXYPowerZ: {r: 0, g: 0, b: 0, a: 0}
     - _SpeedMainTexUVNoiseZW: {r: 0, g: 0, b: 0, a: 0}
     - _TintColor: {r: 0.6985294, g: 0.7293469, b: 0.7293469, a: 0.684}
