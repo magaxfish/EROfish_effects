@@ -584,6 +584,30 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 8780336063312135901, guid: 7a6cfeae91eb89541ab8ce994212f3e7, type: 3}
+      propertyPath: InitialModule.startSize.scalar
+      value: 0.3
+      objectReference: {fileID: 0}
+    - target: {fileID: 8780336063312135901, guid: 7a6cfeae91eb89541ab8ce994212f3e7, type: 3}
+      propertyPath: InitialModule.startSizeY.scalar
+      value: 1.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 8780336063312135901, guid: 7a6cfeae91eb89541ab8ce994212f3e7, type: 3}
+      propertyPath: InitialModule.startSizeZ.scalar
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8780336063312135901, guid: 7a6cfeae91eb89541ab8ce994212f3e7, type: 3}
+      propertyPath: InitialModule.startSpeed.scalar
+      value: 0.001
+      objectReference: {fileID: 0}
+    - target: {fileID: 8780336063312135901, guid: 7a6cfeae91eb89541ab8ce994212f3e7, type: 3}
+      propertyPath: InitialModule.startLifetime.scalar
+      value: 0.33
+      objectReference: {fileID: 0}
+    - target: {fileID: 8780336063312135901, guid: 7a6cfeae91eb89541ab8ce994212f3e7, type: 3}
+      propertyPath: InitialModule.startLifetime.minScalar
+      value: 0.5
+      objectReference: {fileID: 0}
     - target: {fileID: 8885189528071342282, guid: 7a6cfeae91eb89541ab8ce994212f3e7, type: 3}
       propertyPath: ShapeModule.radius.value
       value: 0.25
@@ -591,6 +615,18 @@ PrefabInstance:
     - target: {fileID: 8885189528071342282, guid: 7a6cfeae91eb89541ab8ce994212f3e7, type: 3}
       propertyPath: ClampVelocityModule.dampen
       value: 0.3
+      objectReference: {fileID: 0}
+    - target: {fileID: 8885189528071342282, guid: 7a6cfeae91eb89541ab8ce994212f3e7, type: 3}
+      propertyPath: InitialModule.startLifetime.scalar
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8885189528071342282, guid: 7a6cfeae91eb89541ab8ce994212f3e7, type: 3}
+      propertyPath: ColorModule.gradient.maxGradient.atime1
+      value: 32768
+      objectReference: {fileID: 0}
+    - target: {fileID: 8885189528071342282, guid: 7a6cfeae91eb89541ab8ce994212f3e7, type: 3}
+      propertyPath: ColorModule.gradient.maxGradient.m_ColorSpace
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8885189528071342282, guid: 7a6cfeae91eb89541ab8ce994212f3e7, type: 3}
       propertyPath: EmissionModule.m_Bursts.Array.data[0].countCurve.scalar
