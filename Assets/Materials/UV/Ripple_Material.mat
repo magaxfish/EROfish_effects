@@ -53,5 +53,5 @@ Material:
     - _EmissiveColor: {r: 1, g: 1, b: 1, a: 1}
     - _Flip: {r: 1, g: 1, b: 1, a: 1}
     - _RendererColor: {r: 1, g: 1, b: 1, a: 1}
-    - _TintColor: {r: 1, g: 1, b: 1, a: 0.3529412}
+    - _TintColor: {r: 1, g: 1, b: 1, a: 0.19607843}
   m_BuildTextureStacks: []
