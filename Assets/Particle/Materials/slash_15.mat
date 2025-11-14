@@ -47,13 +47,13 @@ Material:
     m_Floats:
     - _CullMode: 0
     - _Depthpower: 1
-    - _Emission: 1
+    - _Emission: 1.5
     - _InvFade: 1
     - _Opacity: 1
     - _Usecenterglow: 0
     - _Usedepth: 0
     m_Colors:
-    - _Color: {r: 0.8962264, g: 0.78123885, b: 0.78123885, a: 0.62352943}
+    - _Color: {r: 1, g: 1, b: 1, a: 0.62352943}
     - _DistortionSpeedXYPowerZ: {r: 0, g: 0, b: 0, a: 0}
     - _SpeedMainTexUVNoiseZW: {r: 0, g: 0, b: 0, a: 0}
     - _TintColor: {r: 0.5, g: 0.5, b: 0.5, a: 0.5}
